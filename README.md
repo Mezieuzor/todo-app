@@ -25,7 +25,7 @@ You find it a struggle to keep to deadlines
 Don’t think you’re unusual because there are thousands of people who struggle with the same every day, not just in the workplace but in their personal lives too. Luckily, there is something very simple you can do to keep your life and work more organized.)
   - [The challenge](
   - What is a ToDo List?
-What is a ToDo List? The definition is a simple one. It’s a list of tasks you need to complete or things that you want to do. 
+    The definition is a simple one. It’s a list of tasks you need to complete or things that you want to do. 
 
 Most typically, they’re organized in order of priority. Traditionally, they’re written on a piece of paper or post-it notes and act as a memory aid. As technology has evolved we have been able to create a todo list with excel spreadsheets, word documents, email lists, todo list apps, Microsoft to do and google to-do list to name a few. You can use a to do list in your home and personal life, or in the workplace.
 
